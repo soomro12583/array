@@ -34,12 +34,19 @@ var cast = prompt("Please enter your Cast");*/
 /*var originalNum = 23;
 var newNum = originalNum+7
 document.write(newNum+originalNum);*/
-var enterName = prompt("Please Enter Your Name");
+/*var enterName = prompt("Please Enter Your Name");
 var phone = prompt("Please Enter Your Phone Number");
 /*var email = prompt("Please Enter Your email");
 var pass = prompt("Please Enter Your Password");
 var conform = prompt("Please Enter Your Conform Password");*/
-document.write(enterName);
+/*document.write(enterName);
 document.write(phone);
 var name = prompt("what is your name?");
-document.write(name);
+document.write(name);*/
+var x = prompt("what is my city name?");
+if (x === "shikarpur") {
+    document.write("Welcome to Shikarpur");
+}else (
+    document.write("wrong Answar")
+);
+
